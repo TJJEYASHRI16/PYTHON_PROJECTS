@@ -1,3 +1,4 @@
+#To practice python and git
 # TODO-1: Import and print the logo from art.py when the program starts.
 import art
 print(art.logo)
